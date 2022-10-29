@@ -10,7 +10,7 @@
 
 ## Installation
 
-```sh
+```js
 npm install ssniff
 ```
 
