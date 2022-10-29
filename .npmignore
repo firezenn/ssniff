@@ -1,0 +1,8 @@
+.gitignore
+node_modules
+build
+.vscode
+coverage
+ssniff_**
+lib
+test

@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2022",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "strict": true,
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "types": ["node", "mocha"]
+  },
+  "include": ["*.ts"],
+  "exclude": ["test/"]
+}
