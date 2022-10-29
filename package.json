@@ -1,6 +1,6 @@
 {
   "name": "ssniff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ssniff is a module that helps investigate incoming client requests with their correlating response.",
   "main": "./dist/index.js",
   "scripts": {
